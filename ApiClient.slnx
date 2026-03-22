@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ApiClient.Tests/ApiClient.Tests.csproj" />
+    <Project Path="src/ApiClient/ApiClient.csproj" />
+  </Folder>
+</Solution>
